@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+// 아직 안됨
 public class q2602 {
 
-    // RGS
+    // 예시 : RGS
 
     public static String[] array1 = {"R","I","N","G","S","R"};
     public static String[] array2 = {"G","R","G","G","N","S"};
